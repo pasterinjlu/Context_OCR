@@ -1,0 +1,122 @@
+[
+  {
+    "model": "gemini-3.1-flash-lite",
+    "prompt": "Read the text enclosed by the single red rectangular outline in the image. Return only that text and nothing else.",
+    "temperature": 0.0,
+    "max_tokens": 2048,
+    "image_detail": "provider_default",
+    "thinking": "provider_default"
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "prompt": "Read the text enclosed by the single red rectangular outline in the image. Return only that text and nothing else.",
+    "temperature": 0.0,
+    "max_tokens": 2048,
+    "image_detail": "provider_default",
+    "thinking": "provider_default"
+  },
+  {
+    "model": "gemini-3-flash-preview",
+    "prompt": "Read the text enclosed by the single red rectangular outline in the image. Return only that text and nothing else.",
+    "temperature": 0.0,
+    "max_tokens": 2048,
+    "image_detail": "provider_default",
+    "thinking": "provider_default"
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "prompt": "Read the text enclosed by the single red rectangular outline in the image. Return only that text and nothing else.",
+    "temperature": 0.0,
+    "max_tokens": 2048,
+    "image_detail": "provider_default",
+    "thinking": "provider_default"
+  },
+  {
+    "model": "gpt-5.5",
+    "prompt": "Read the text enclosed by the single red rectangular outline in the image. Return only that text and nothing else.",
+    "temperature": 0.0,
+    "max_tokens": 2048,
+    "image_detail": "provider_default",
+    "thinking": "provider_default"
+  },
+  {
+    "model": "qwen3-vl-8b-instruct",
+    "prompt": "Read the text enclosed by the single red rectangular outline in the image. Do not output chain-of-thought, reasoning, analysis, or explanation. Return only the text itself and nothing else.",
+    "temperature": 0.0,
+    "max_tokens": 2048,
+    "image_detail": "provider_default",
+    "thinking": "provider_default"
+  },
+  {
+    "model": "glm-4.6v",
+    "prompt": "Read the text enclosed by the single red rectangular outline in the image. Return only that text and nothing else.",
+    "temperature": 0.0,
+    "max_tokens": 2048,
+    "image_detail": "provider_default",
+    "thinking": "provider_default"
+  },
+  {
+    "model": "qwen3-vl-32b-instruct",
+    "prompt": "Read the text enclosed by the single red rectangular outline in the image. Do not output chain-of-thought, reasoning, analysis, or explanation. Return only the text itself and nothing else.",
+    "temperature": 0.0,
+    "max_tokens": 2048,
+    "image_detail": "provider_default",
+    "thinking": "provider_default"
+  },
+  {
+    "model": "gpt-5.2",
+    "prompt": "Read the text enclosed by the single red rectangular outline in the image. Return only that text and nothing else.",
+    "temperature": 0.0,
+    "max_tokens": 2048,
+    "image_detail": "provider_default",
+    "thinking": "provider_default"
+  },
+  {
+    "model": "kimi-k2.5",
+    "prompt": "Read the text enclosed by the single red rectangular outline in the image. Return only that text and nothing else.",
+    "temperature": 0.0,
+    "max_tokens": 2048,
+    "image_detail": "provider_default",
+    "thinking": "provider_default"
+  },
+  {
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "prompt": "Read the text enclosed by the single red rectangular outline in the image. Do not output chain-of-thought, reasoning, analysis, or explanation. Return only the text itself and nothing else.",
+    "temperature": 0.0,
+    "max_tokens": 2048,
+    "image_detail": "provider_default",
+    "thinking": "provider_default"
+  },
+  {
+    "model": "qwen3-vl-235b-a22b-instruct",
+    "prompt": "Read the text enclosed by the single red rectangular outline in the image. Do not output chain-of-thought, reasoning, analysis, or explanation. Return only the text itself and nothing else.",
+    "temperature": 0.0,
+    "max_tokens": 2048,
+    "image_detail": "provider_default",
+    "thinking": "provider_default"
+  },
+  {
+    "model": "qwen3-vl-8b-thinking",
+    "prompt": "Read the text enclosed by the single red rectangular outline in the image. Do not output chain-of-thought, reasoning, analysis, or explanation. Return only the text itself and nothing else.",
+    "temperature": 0.0,
+    "max_tokens": 2048,
+    "image_detail": "provider_default",
+    "thinking": "provider_default"
+  },
+  {
+    "model": "qwen3-vl-32b-thinking",
+    "prompt": "Read the text enclosed by the single red rectangular outline in the image. Do not output chain-of-thought, reasoning, analysis, or explanation. Return only the text itself and nothing else.",
+    "temperature": 0.0,
+    "max_tokens": 2048,
+    "image_detail": "provider_default",
+    "thinking": "provider_default"
+  },
+  {
+    "model": "internvl3-38b",
+    "prompt": "Read the text enclosed by the single red rectangular outline in the image. Return only that text and nothing else.",
+    "temperature": 0.0,
+    "max_tokens": 2048,
+    "image_detail": "provider_default",
+    "thinking": "provider_default"
+  }
+]

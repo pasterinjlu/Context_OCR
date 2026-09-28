@@ -1,0 +1,124 @@
+{
+  "files": {
+    ".env.example": {
+      "bytes": 75,
+      "sha256": "48dc37ccc60c1bb8ae6476fcf12cb1eafab2fdd31bd69c9e74db292a39a4512e"
+    },
+    ".gitignore": {
+      "bytes": 156,
+      "sha256": "931dc3701b98d24bbb8797b2c0023ac0db136315444b666b6e345f711133d5a4"
+    },
+    "CITATION.cff": {
+      "bytes": 340,
+      "sha256": "d5a6cdaabd85e16007d41350aa7b2ab8e7c36ca5f8e3a43a797076e93d9b0b7a"
+    },
+    "README.md": {
+      "bytes": 2110,
+      "sha256": "f01a395e2631ac8e1f14562450cba7d2b534b09d0ef9f7baccf05fe4de720b1e"
+    },
+    "data/README.md": {
+      "bytes": 780,
+      "sha256": "9393afaec79cf5f58245399776d117213e90bb95d2892a2cbcee98ba11767bd4"
+    },
+    "data/assets.json": {
+      "bytes": 261859,
+      "sha256": "6f89501a64140b1428eefce003b048e974a1c2131846e635e9be21df84579d38"
+    },
+    "data/fixed_patch/annotations.json": {
+      "bytes": 581413,
+      "sha256": "5db55ad43ac1ae00a8ee4c7bbd16e8043ac139ac16a5df59d85da45c08d51a00"
+    },
+    "data/scenefaith/annotations.json": {
+      "bytes": 438001,
+      "sha256": "3853a803d620d72ee569803662cb2be84ffa9083b1330ddf32b49c6911efc660"
+    },
+    "examples/annotations.json": {
+      "bytes": 2164,
+      "sha256": "f9df8bcf2402b0b59573941af30c169de431bb89dd8242f5e622645edf9145f9"
+    },
+    "examples/images/full500_001_animal_A.png": {
+      "bytes": 2534071,
+      "sha256": "aaa4ebccf1153a0a6db6e90920ff46c8a6ad8cc25d0c1bb079f29bdd4dab1a07"
+    },
+    "examples/images/nataexp_0002.png": {
+      "bytes": 2433581,
+      "sha256": "ae8927512bf65d1bd25e82d768702dedd60fc412f3c7f871a4a1a2e94a35289f"
+    },
+    "examples/images/nataexp_0006.png": {
+      "bytes": 2636017,
+      "sha256": "935ff553f425d88cc5b2901c2d0a3003601d5d09e0012b56b2454766a32dac7a"
+    },
+    "examples/images/nataexp_0008.png": {
+      "bytes": 1977369,
+      "sha256": "b22a5667f2d6de5ab5fc79fe1807ded2fb5bb3eb119affede948353e0d2067db"
+    },
+    "requirements.txt": {
+      "bytes": 66,
+      "sha256": "4baa6c530774a2b78a8594ee569258ad0670115f8e28538c35574f0aa785221d"
+    },
+    "results/README.md": {
+      "bytes": 533,
+      "sha256": "1dc8415c92928bfc7341ef519c07380d0881cfc02c531c94065d53b7ca197b70"
+    },
+    "results/blur.json": {
+      "bytes": 20784,
+      "sha256": "ad84a5c202f2bebf5a0c2f30ac58dda44b02e17867d7adc99c4276fc180ea8d1"
+    },
+    "results/clear_predictions.jsonl": {
+      "bytes": 1515269,
+      "sha256": "c2d27a8908e1d4ed0a0c9d984dfd939744953a3b3fbaca12636b57e53a76666a"
+    },
+    "results/clear_summary.json": {
+      "bytes": 6297,
+      "sha256": "70cab015f8523bcff4d1d3d2d816138efaccdd752cb5230441af56130fcb317e"
+    },
+    "results/fixed_patch.json": {
+      "bytes": 12744,
+      "sha256": "3d5ccc6cf4deeaf3c042a99d5b924e6d0566b53f0101bb3df5f2311b608e5e22"
+    },
+    "results/lexical_scores.jsonl": {
+      "bytes": 1112308,
+      "sha256": "53289aedf05b1f2e4261b96d5ac2ccc3ef0a6c20b95688ea560d6f8dbacad726"
+    },
+    "results/prompts.json": {
+      "bytes": 4654,
+      "sha256": "220046f1a801f40c57773849875391611bb03a5d3788ce2a9e1070cb79b7a628"
+    },
+    "results/run_settings.json": {
+      "bytes": 4924,
+      "sha256": "44ae6e3cf9e5b93466ffbb5fe6f3c42568533777b8e1def64b7c50f7b30fa9a0"
+    },
+    "scripts/common.py": {
+      "bytes": 3285,
+      "sha256": "775b4d43018eef5b9ceffe98713c690ce0d84dd1f311d3406bb7f053e7e3ae80"
+    },
+    "scripts/evaluate.py": {
+      "bytes": 5160,
+      "sha256": "c14b802092428b6240a94bbd919515a8d82484faa0355746d5bf297429689b9f"
+    },
+    "scripts/prepare_variant.py": {
+      "bytes": 2453,
+      "sha256": "570812caf01ae2f04d0f7e5d78bcc708b52a9928f0815189cb012ca1291485a7"
+    },
+    "scripts/score.py": {
+      "bytes": 2357,
+      "sha256": "2bf3b6565637880b36c6b3a0d3bb76920481a641ad583e12d4ec62fef4e16b86"
+    },
+    "scripts/transforms.py": {
+      "bytes": 1426,
+      "sha256": "16dc42b98ca81f23e78b1be490627acfb25c12268aebfa70ee0887d2468abe9b"
+    },
+    "scripts/verify.py": {
+      "bytes": 3385,
+      "sha256": "02bfaead5746bebaf43d67a83514d3a4160fcbd404bd69a88c74fbe47b4d41fc"
+    },
+    "tests/test_evaluate.py": {
+      "bytes": 1958,
+      "sha256": "1d32d4a0eb6d5f8624e2ccf0ad56ac3730c1ed7f93dd03996bb2bdae4fe4577f"
+    },
+    "tests/test_scoring.py": {
+      "bytes": 1475,
+      "sha256": "132fb8762a35e0fa6f1d7ca8c7adbdc38ba48339772c3e90ddc52f025c39272e"
+    }
+  }
+}

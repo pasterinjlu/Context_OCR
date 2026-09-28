@@ -1,0 +1,78 @@
+[
+  {
+    "id": "full500_001_animal_A",
+    "domain": "animal",
+    "observed_text": "dolphiin",
+    "canonical_text": "dolphin",
+    "noise_type": "edit_noise",
+    "source_cohort": "original337",
+    "image_path": "images/full500_001_animal_A.png",
+    "image_sha256": "aaa4ebccf1153a0a6db6e90920ff46c8a6ad8cc25d0c1bb079f29bdd4dab1a07",
+    "image_rgb_sha256": "ac1589810a2ae046ccd47fcafffa074347c5299719461e70ac32acf5778d66fe",
+    "image_width": 1024,
+    "image_height": 1536,
+    "red_bbox_xywh": [
+      507,
+      1021,
+      173,
+      66
+    ]
+  },
+  {
+    "id": "nataexp_0002",
+    "domain": "plant",
+    "observed_text": "rsoe",
+    "canonical_text": "rose",
+    "noise_type": "transpose",
+    "source_cohort": "expansion1000",
+    "image_path": "images/nataexp_0002.png",
+    "image_sha256": "ae8927512bf65d1bd25e82d768702dedd60fc412f3c7f871a4a1a2e94a35289f",
+    "image_rgb_sha256": "879b6e4aeeae8a7eec32938a922413ea8ad4effbdee34eb3703009f45ee29424",
+    "image_width": 1024,
+    "image_height": 1536,
+    "red_bbox_xywh": [
+      559,
+      1020,
+      93,
+      57
+    ]
+  },
+  {
+    "id": "nataexp_0006",
+    "domain": "country",
+    "observed_text": "chna",
+    "canonical_text": "china",
+    "noise_type": "delete",
+    "source_cohort": "expansion1000",
+    "image_path": "images/nataexp_0006.png",
+    "image_sha256": "935ff553f425d88cc5b2901c2d0a3003601d5d09e0012b56b2454766a32dac7a",
+    "image_rgb_sha256": "c4edae0d04410aeb341284b9f364d5081fad7cb22706deb108341c66e94dcac4",
+    "image_width": 1024,
+    "image_height": 1536,
+    "red_bbox_xywh": [
+      699,
+      580,
+      54,
+      27
+    ]
+  },
+  {
+    "id": "nataexp_0008",
+    "domain": "music",
+    "observed_text": "guitaar",
+    "canonical_text": "guitar",
+    "noise_type": "duplicate",
+    "source_cohort": "expansion1000",
+    "image_path": "images/nataexp_0008.png",
+    "image_sha256": "b22a5667f2d6de5ab5fc79fe1807ded2fb5bb3eb119affede948353e0d2067db",
+    "image_rgb_sha256": "d9395a2ca53b53491ff6ab69220058ffc92456a298d08de37dfc4612f050f245",
+    "image_width": 1024,
+    "image_height": 1536,
+    "red_bbox_xywh": [
+      705,
+      1302,
+      104,
+      40
+    ]
+  }
+]

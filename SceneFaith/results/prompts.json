@@ -1,0 +1,210 @@
+[
+  {
+    "model": "gpt-5.2",
+    "variant": "neutral",
+    "n": 781,
+    "rewriting_rate_percent": 29.577464788732396,
+    "counts": {
+      "L": 526,
+      "C": 231,
+      "O": 24
+    },
+    "accuracy_percent": 67.3495518565941,
+    "other_rate_percent": 3.0729833546734957
+  },
+  {
+    "model": "gpt-5.2",
+    "variant": "exact_copy",
+    "n": 781,
+    "rewriting_rate_percent": 14.340588988476313,
+    "counts": {
+      "L": 637,
+      "C": 112,
+      "O": 32
+    },
+    "accuracy_percent": 81.56209987195902,
+    "other_rate_percent": 4.097311139564661
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "variant": "neutral",
+    "n": 781,
+    "rewriting_rate_percent": 8.962868117797695,
+    "counts": {
+      "L": 701,
+      "C": 70,
+      "O": 10
+    },
+    "accuracy_percent": 89.75672215108835,
+    "other_rate_percent": 1.2804097311139564
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "variant": "exact_copy",
+    "n": 781,
+    "rewriting_rate_percent": 0.6402048655569782,
+    "counts": {
+      "L": 771,
+      "C": 5,
+      "O": 5
+    },
+    "accuracy_percent": 98.71959026888604,
+    "other_rate_percent": 0.6402048655569782
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "variant": "neutral",
+    "n": 781,
+    "rewriting_rate_percent": 12.163892445582587,
+    "counts": {
+      "L": 664,
+      "C": 95,
+      "O": 22
+    },
+    "accuracy_percent": 85.0192061459667,
+    "other_rate_percent": 2.816901408450704
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "variant": "exact_copy",
+    "n": 781,
+    "rewriting_rate_percent": 1.792573623559539,
+    "counts": {
+      "L": 758,
+      "C": 14,
+      "O": 9
+    },
+    "accuracy_percent": 97.0550576184379,
+    "other_rate_percent": 1.1523687580025608
+  },
+  {
+    "model": "qwen3-vl-32b-thinking",
+    "variant": "neutral",
+    "n": 781,
+    "rewriting_rate_percent": 44.43021766965429,
+    "counts": {
+      "L": 371,
+      "C": 347,
+      "O": 63
+    },
+    "accuracy_percent": 47.50320102432779,
+    "other_rate_percent": 8.066581306017925
+  },
+  {
+    "model": "qwen3-vl-32b-thinking",
+    "variant": "exact_copy",
+    "n": 781,
+    "rewriting_rate_percent": 19.718309859154928,
+    "counts": {
+      "L": 541,
+      "C": 154,
+      "O": 86
+    },
+    "accuracy_percent": 69.27016645326505,
+    "other_rate_percent": 11.011523687580025
+  },
+  {
+    "model": "gpt-5.2",
+    "variant": "context_blind",
+    "n": 781,
+    "rewriting_rate_percent": 15.364916773367478,
+    "counts": {
+      "L": 623,
+      "C": 120,
+      "O": 38
+    },
+    "accuracy_percent": 79.76952624839949,
+    "other_rate_percent": 4.865556978233035
+  },
+  {
+    "model": "gpt-5.2",
+    "variant": "correction_first",
+    "n": 781,
+    "rewriting_rate_percent": 96.9270166453265,
+    "counts": {
+      "L": 10,
+      "C": 757,
+      "O": 14
+    },
+    "accuracy_percent": 1.2804097311139564,
+    "other_rate_percent": 1.792573623559539
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "variant": "context_blind",
+    "n": 781,
+    "rewriting_rate_percent": 3.9692701664532652,
+    "counts": {
+      "L": 745,
+      "C": 31,
+      "O": 5
+    },
+    "accuracy_percent": 95.39052496798976,
+    "other_rate_percent": 0.6402048655569782
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "variant": "correction_first",
+    "n": 781,
+    "rewriting_rate_percent": 96.79897567221511,
+    "counts": {
+      "L": 3,
+      "C": 756,
+      "O": 22
+    },
+    "accuracy_percent": 0.38412291933418696,
+    "other_rate_percent": 2.816901408450704
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "variant": "context_blind",
+    "n": 781,
+    "rewriting_rate_percent": 2.176696542893726,
+    "counts": {
+      "L": 754,
+      "C": 17,
+      "O": 10
+    },
+    "accuracy_percent": 96.54289372599231,
+    "other_rate_percent": 1.2804097311139564
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "variant": "correction_first",
+    "n": 781,
+    "rewriting_rate_percent": 95.77464788732394,
+    "counts": {
+      "L": 5,
+      "C": 748,
+      "O": 28
+    },
+    "accuracy_percent": 0.6402048655569782,
+    "other_rate_percent": 3.585147247119078
+  },
+  {
+    "model": "qwen3-vl-32b-thinking",
+    "variant": "context_blind",
+    "n": 781,
+    "rewriting_rate_percent": 24.583866837387966,
+    "counts": {
+      "L": 517,
+      "C": 192,
+      "O": 72
+    },
+    "accuracy_percent": 66.19718309859155,
+    "other_rate_percent": 9.218950064020486
+  },
+  {
+    "model": "qwen3-vl-32b-thinking",
+    "variant": "correction_first",
+    "n": 781,
+    "rewriting_rate_percent": 94.87836107554418,
+    "counts": {
+      "L": 1,
+      "C": 741,
+      "O": 39
+    },
+    "accuracy_percent": 0.12804097311139565,
+    "other_rate_percent": 4.99359795134443
+  }
+]

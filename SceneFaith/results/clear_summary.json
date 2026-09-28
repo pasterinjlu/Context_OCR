@@ -1,0 +1,272 @@
+[
+  {
+    "model": "gemini-3.1-flash-lite",
+    "n": 781,
+    "rewrites": 66,
+    "rewriting_rate_percent": 8.450704225352112,
+    "counts": {
+      "L": 704,
+      "C": 66,
+      "O": 11
+    },
+    "accuracy_percent": 90.14084507042253,
+    "other_rate_percent": 1.408450704225352,
+    "wilson_95ci_percent": [
+      6.697524956251198,
+      10.610615088339468
+    ],
+    "domain_macro_rr_percent": 8.329654265210873
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "n": 781,
+    "rewrites": 70,
+    "rewriting_rate_percent": 8.962868117797695,
+    "counts": {
+      "L": 701,
+      "C": 70,
+      "O": 10
+    },
+    "accuracy_percent": 89.75672215108835,
+    "other_rate_percent": 1.2804097311139564,
+    "wilson_95ci_percent": [
+      7.155224017505142,
+      11.172230171374082
+    ],
+    "domain_macro_rr_percent": 7.426656793147085
+  },
+  {
+    "model": "gemini-3-flash-preview",
+    "n": 781,
+    "rewrites": 86,
+    "rewriting_rate_percent": 11.011523687580025,
+    "counts": {
+      "L": 690,
+      "C": 86,
+      "O": 5
+    },
+    "accuracy_percent": 88.348271446863,
+    "other_rate_percent": 0.6402048655569782,
+    "wilson_95ci_percent": [
+      9.00403868733194,
+      13.40067207870152
+    ],
+    "domain_macro_rr_percent": 9.340174118926786
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "n": 781,
+    "rewrites": 95,
+    "rewriting_rate_percent": 12.163892445582587,
+    "counts": {
+      "L": 664,
+      "C": 95,
+      "O": 22
+    },
+    "accuracy_percent": 85.0192061459667,
+    "other_rate_percent": 2.816901408450704,
+    "wilson_95ci_percent": [
+      10.054788129098453,
+      14.643379461584265
+    ],
+    "domain_macro_rr_percent": 11.267498287372142
+  },
+  {
+    "model": "gpt-5.5",
+    "n": 781,
+    "rewrites": 152,
+    "rewriting_rate_percent": 19.46222791293214,
+    "counts": {
+      "L": 610,
+      "C": 152,
+      "O": 19
+    },
+    "accuracy_percent": 78.10499359795135,
+    "other_rate_percent": 2.4327784891165174,
+    "wilson_95ci_percent": [
+      16.837836502039327,
+      22.385557644755355
+    ],
+    "domain_macro_rr_percent": 18.331861328089154
+  },
+  {
+    "model": "qwen3-vl-8b-instruct",
+    "n": 781,
+    "rewrites": 152,
+    "rewriting_rate_percent": 19.46222791293214,
+    "counts": {
+      "L": 486,
+      "C": 152,
+      "O": 143
+    },
+    "accuracy_percent": 62.22791293213828,
+    "other_rate_percent": 18.309859154929576,
+    "wilson_95ci_percent": [
+      16.837836502039327,
+      22.385557644755355
+    ],
+    "domain_macro_rr_percent": 19.062862503654724
+  },
+  {
+    "model": "glm-4.6v",
+    "n": 781,
+    "rewrites": 166,
+    "rewriting_rate_percent": 21.254801536491676,
+    "counts": {
+      "L": 580,
+      "C": 166,
+      "O": 35
+    },
+    "accuracy_percent": 74.26376440460947,
+    "other_rate_percent": 4.481434058898848,
+    "wilson_95ci_percent": [
+      18.52985593018477,
+      24.261137721619868
+    ],
+    "domain_macro_rr_percent": 19.63917210917149
+  },
+  {
+    "model": "qwen3-vl-32b-instruct",
+    "n": 781,
+    "rewrites": 215,
+    "rewriting_rate_percent": 27.528809218950062,
+    "counts": {
+      "L": 476,
+      "C": 215,
+      "O": 90
+    },
+    "accuracy_percent": 60.947503201024325,
+    "other_rate_percent": 11.523687580025609,
+    "wilson_95ci_percent": [
+      24.511979584381198,
+      30.765612334958277
+    ],
+    "domain_macro_rr_percent": 26.896204281277097
+  },
+  {
+    "model": "gpt-5.2",
+    "n": 781,
+    "rewrites": 231,
+    "rewriting_rate_percent": 29.577464788732396,
+    "counts": {
+      "L": 526,
+      "C": 231,
+      "O": 24
+    },
+    "accuracy_percent": 67.3495518565941,
+    "other_rate_percent": 3.0729833546734957,
+    "wilson_95ci_percent": [
+      26.482900354511024,
+      32.87194814198269
+    ],
+    "domain_macro_rr_percent": 27.799429837028057
+  },
+  {
+    "model": "kimi-k2.5",
+    "n": 781,
+    "rewrites": 249,
+    "rewriting_rate_percent": 31.882202304737515,
+    "counts": {
+      "L": 511,
+      "C": 249,
+      "O": 21
+    },
+    "accuracy_percent": 65.42893725992317,
+    "other_rate_percent": 2.6888604353393086,
+    "wilson_95ci_percent": [
+      28.70934515583255,
+      35.23241698995969
+    ],
+    "domain_macro_rr_percent": 29.510704532981453
+  },
+  {
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "n": 781,
+    "rewrites": 252,
+    "rewriting_rate_percent": 32.2663252240717,
+    "counts": {
+      "L": 487,
+      "C": 252,
+      "O": 42
+    },
+    "accuracy_percent": 62.35595390524968,
+    "other_rate_percent": 5.377720870678617,
+    "wilson_95ci_percent": [
+      29.081321389110038,
+      35.62492636489861
+    ],
+    "domain_macro_rr_percent": 31.404801061745577
+  },
+  {
+    "model": "qwen3-vl-235b-a22b-instruct",
+    "n": 781,
+    "rewrites": 253,
+    "rewriting_rate_percent": 32.394366197183096,
+    "counts": {
+      "L": 478,
+      "C": 253,
+      "O": 50
+    },
+    "accuracy_percent": 61.20358514724712,
+    "other_rate_percent": 6.402048655569782,
+    "wilson_95ci_percent": [
+      29.20536937957461,
+      35.75570691050618
+    ],
+    "domain_macro_rr_percent": 34.15832577535141
+  },
+  {
+    "model": "qwen3-vl-8b-thinking",
+    "n": 781,
+    "rewrites": 296,
+    "rewriting_rate_percent": 37.90012804097311,
+    "counts": {
+      "L": 379,
+      "C": 296,
+      "O": 106
+    },
+    "accuracy_percent": 48.52752880921895,
+    "other_rate_percent": 13.572343149807939,
+    "wilson_95ci_percent": [
+      34.56474923455987,
+      41.35395410662293
+    ],
+    "domain_macro_rr_percent": 38.82404313462402
+  },
+  {
+    "model": "qwen3-vl-32b-thinking",
+    "n": 781,
+    "rewrites": 347,
+    "rewriting_rate_percent": 44.43021766965429,
+    "counts": {
+      "L": 371,
+      "C": 347,
+      "O": 63
+    },
+    "accuracy_percent": 47.50320102432779,
+    "other_rate_percent": 8.066581306017925,
+    "wilson_95ci_percent": [
+      40.98108491196889,
+      47.93387376889303
+    ],
+    "domain_macro_rr_percent": 42.16775802169208
+  },
+  {
+    "model": "internvl3-38b",
+    "n": 781,
+    "rewrites": 457,
+    "rewriting_rate_percent": 58.51472471190781,
+    "counts": {
+      "L": 252,
+      "C": 457,
+      "O": 72
+    },
+    "accuracy_percent": 32.2663252240717,
+    "other_rate_percent": 9.218950064020486,
+    "wilson_95ci_percent": [
+      55.02583331531441,
+      61.920264333482876
+    ],
+    "domain_macro_rr_percent": 58.35706752287845
+  }
+]

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when using SceneFaith."
+title: "When VLMs Trust Context: Evaluating Scene Text Recognition under Misleading Context"
+type: software
+authors:
+  - family-names: Cheng
+    given-names: Yuxing
+  - family-names: Wu
+    given-names: Yuan
+  - family-names: Chang
+    given-names: Yi
